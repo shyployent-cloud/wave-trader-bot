@@ -1,4 +1,5 @@
 trading-ig==0.0.24
+munch>=4.0.0
 requests>=2.31.0
 pandas>=2.1.0
 numpy>=1.26.0
