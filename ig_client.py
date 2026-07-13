@@ -123,7 +123,7 @@ class IGClient:
                 currency_code     = currency,
                 direction         = direction,
                 epic              = epic,
-                expiry            = "-",
+                expiry            = "DFB",  # DFB = Daily Funded Bet (spread betting)
                 force_open        = True,
                 guaranteed_stop   = False,
                 level             = None,
